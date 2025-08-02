@@ -2,7 +2,7 @@
 
 ## **Overview**
 
-This project is a currency converter built using **React** and **React Native**. It is a demonstration of my learning journey with React, including React hooks, components, and custom hooks.
+This project is a currency converter built using **React**. It is a demonstration of my learning journey with React, including React hooks, components, and custom hooks.
 
 Another version of a currency converter is available on my GitHub profile, which was created using plain **JavaScript, HTML, and CSS**. However, this project takes a step further, utilizing React's capabilities to build a more robust and dynamic application.
 
